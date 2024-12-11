@@ -1,0 +1,43 @@
+# 依赖目录
+node_modules
+package-lock.json
+yarn.lock
+
+# Hardhat 文件
+cache
+artifacts
+typechain
+typechain-types
+
+# 测试覆盖率
+coverage
+coverage.json
+
+# 本地环境变量
+.env
+.env.local
+.env.*.local
+
+# IDE 和编辑器文件
+.idea
+.vscode
+*.swp
+*.swo
+
+# 编译输出
+dist
+build
+
+# 调试日志
+debug
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# Hardhat 部署历史
+deployments
+
+# Gas 报告
+gas-report.txt 
